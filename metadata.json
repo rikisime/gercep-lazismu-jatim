@@ -1,0 +1,6 @@
+{
+  "name": "Shine Our School (SOS) – Kilaukan Sekolah Kita",
+  "description": "Landing page interaktif program Shine Our School (SOS): Kilaukan Sekolah Kita - Gerakan Cahaya Pendidikan (GERCEP) Pimpinan Wilayah Muhammadiyah Jawa Timur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
